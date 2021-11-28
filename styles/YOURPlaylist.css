@@ -1,0 +1,15 @@
+.YOURPlaylist{
+	text-align: center;
+	background-color: whitesmoke;
+}
+
+.articles{
+	border-radius: 18px;
+	background-color: lightgrey;
+	box-shadow: solid black 1px;
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+}
